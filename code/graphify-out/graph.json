@@ -1,0 +1,648 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "ast_extract.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\ast_extract.py",
+      "source_location": "L1",
+      "id": "ast_extract_py",
+      "community": 9,
+      "norm_label": "ast_extract.py"
+    },
+    {
+      "label": "check_cache.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\check_cache.py",
+      "source_location": "L1",
+      "id": "check_cache_py",
+      "community": 10,
+      "norm_label": "check_cache.py"
+    },
+    {
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\eslint.config.js",
+      "source_location": "L1",
+      "id": "eslint_config_js",
+      "community": 11,
+      "norm_label": "eslint.config.js"
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\vite.config.js",
+      "source_location": "L1",
+      "id": "vite_config_js",
+      "community": 12,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\App.jsx",
+      "source_location": "L1",
+      "id": "src_app_jsx",
+      "community": 0,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\App.jsx",
+      "source_location": "L9",
+      "id": "app_app",
+      "community": 0,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\main.jsx",
+      "source_location": "L1",
+      "id": "src_main_jsx",
+      "community": 13,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "EntryForm.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\EntryForm.jsx",
+      "source_location": "L1",
+      "id": "src_components_journal_entryform_jsx",
+      "community": 1,
+      "norm_label": "entryform.jsx"
+    },
+    {
+      "label": "EntryForm()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\EntryForm.jsx",
+      "source_location": "L4",
+      "id": "entryform_entryform",
+      "community": 1,
+      "norm_label": "entryform()"
+    },
+    {
+      "label": "StatsGrid.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\StatsGrid.jsx",
+      "source_location": "L1",
+      "id": "src_components_journal_statsgrid_jsx",
+      "community": 2,
+      "norm_label": "statsgrid.jsx"
+    },
+    {
+      "label": "StatsGrid()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\StatsGrid.jsx",
+      "source_location": "L3",
+      "id": "statsgrid_statsgrid",
+      "community": 2,
+      "norm_label": "statsgrid()"
+    },
+    {
+      "label": "TradeTable.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\TradeTable.jsx",
+      "source_location": "L1",
+      "id": "src_components_journal_tradetable_jsx",
+      "community": 3,
+      "norm_label": "tradetable.jsx"
+    },
+    {
+      "label": "TradeTable()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\TradeTable.jsx",
+      "source_location": "L4",
+      "id": "tradetable_tradetable",
+      "community": 3,
+      "norm_label": "tradetable()"
+    },
+    {
+      "label": "WinRateChart.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\WinRateChart.jsx",
+      "source_location": "L1",
+      "id": "src_components_journal_winratechart_jsx",
+      "community": 4,
+      "norm_label": "winratechart.jsx"
+    },
+    {
+      "label": "WinRateChart()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\WinRateChart.jsx",
+      "source_location": "L4",
+      "id": "winratechart_winratechart",
+      "community": 4,
+      "norm_label": "winratechart()"
+    },
+    {
+      "label": "Header.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\layout\\Header.jsx",
+      "source_location": "L1",
+      "id": "src_components_layout_header_jsx",
+      "community": 5,
+      "norm_label": "header.jsx"
+    },
+    {
+      "label": "Header()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\layout\\Header.jsx",
+      "source_location": "L4",
+      "id": "header_header",
+      "community": 5,
+      "norm_label": "header()"
+    },
+    {
+      "label": "StrategyGuide.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\strategy\\StrategyGuide.jsx",
+      "source_location": "L1",
+      "id": "src_components_strategy_strategyguide_jsx",
+      "community": 6,
+      "norm_label": "strategyguide.jsx"
+    },
+    {
+      "label": "StrategyGuide()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\strategy\\StrategyGuide.jsx",
+      "source_location": "L4",
+      "id": "strategyguide_strategyguide",
+      "community": 6,
+      "norm_label": "strategyguide()"
+    },
+    {
+      "label": "useJournal.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\hooks\\useJournal.js",
+      "source_location": "L1",
+      "id": "src_hooks_usejournal_js",
+      "community": 0,
+      "norm_label": "usejournal.js"
+    },
+    {
+      "label": "useJournal()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\hooks\\useJournal.js",
+      "source_location": "L5",
+      "id": "usejournal_usejournal",
+      "community": 0,
+      "norm_label": "usejournal()"
+    },
+    {
+      "label": "ast_extract.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\ast_extract.py",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_ast_extract_py",
+      "community": 14,
+      "norm_label": "ast_extract.py"
+    },
+    {
+      "label": "check_cache.py",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\check_cache.py",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_check_cache_py",
+      "community": 15,
+      "norm_label": "check_cache.py"
+    },
+    {
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\eslint.config.js",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_eslint_config_js",
+      "community": 16,
+      "norm_label": "eslint.config.js"
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\vite.config.js",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_vite_config_js",
+      "community": 17,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\App.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_app_jsx",
+      "community": 0,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\main.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_main_jsx",
+      "community": 18,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "EntryForm.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\EntryForm.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_components_journal_entryform_jsx",
+      "community": 1,
+      "norm_label": "entryform.jsx"
+    },
+    {
+      "label": "StatsGrid.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\StatsGrid.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_components_journal_statsgrid_jsx",
+      "community": 2,
+      "norm_label": "statsgrid.jsx"
+    },
+    {
+      "label": "TradeTable.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\TradeTable.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_components_journal_tradetable_jsx",
+      "community": 3,
+      "norm_label": "tradetable.jsx"
+    },
+    {
+      "label": "WinRateChart.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\WinRateChart.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_components_journal_winratechart_jsx",
+      "community": 4,
+      "norm_label": "winratechart.jsx"
+    },
+    {
+      "label": "Header.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\layout\\Header.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_components_layout_header_jsx",
+      "community": 5,
+      "norm_label": "header.jsx"
+    },
+    {
+      "label": "StrategyGuide.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\strategy\\StrategyGuide.jsx",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_components_strategy_strategyguide_jsx",
+      "community": 6,
+      "norm_label": "strategyguide.jsx"
+    },
+    {
+      "label": "useJournal.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\hooks\\useJournal.js",
+      "source_location": "L1",
+      "id": "c_users_msaik_desktop_backtesting_code_src_hooks_usejournal_js",
+      "community": 0,
+      "norm_label": "usejournal.js"
+    },
+    {
+      "label": "React + Vite Template",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "id": "readme_react_vite",
+      "community": 19,
+      "norm_label": "react + vite template"
+    },
+    {
+      "label": "Project Objective",
+      "file_type": "document",
+      "source_file": "code-memory/context.md",
+      "source_location": null,
+      "id": "context_objective",
+      "community": 8,
+      "norm_label": "project objective"
+    },
+    {
+      "label": "Technical Stack",
+      "file_type": "document",
+      "source_file": "code-memory/context.md",
+      "source_location": null,
+      "id": "context_tech_stack",
+      "community": 7,
+      "norm_label": "technical stack"
+    },
+    {
+      "label": "Trading Strategy Insights",
+      "file_type": "document",
+      "source_file": "code-memory/context.md",
+      "source_location": null,
+      "id": "context_trading_strategy",
+      "community": 8,
+      "norm_label": "trading strategy insights"
+    },
+    {
+      "label": "Architecture & Folder Structure",
+      "file_type": "document",
+      "source_file": "code-memory/plan.md",
+      "source_location": null,
+      "id": "plan_architecture",
+      "community": 7,
+      "norm_label": "architecture & folder structure"
+    },
+    {
+      "label": "Key Features",
+      "file_type": "document",
+      "source_file": "code-memory/plan.md",
+      "source_location": null,
+      "id": "plan_features",
+      "community": 20,
+      "norm_label": "key features"
+    },
+    {
+      "label": "index.html",
+      "file_type": "document",
+      "source_file": "index.html",
+      "source_location": null,
+      "id": "index_html",
+      "community": 21,
+      "norm_label": "index.html"
+    },
+    {
+      "label": "Favicon",
+      "file_type": "image",
+      "source_file": "public/favicon.svg",
+      "source_location": null,
+      "id": "favicon_svg",
+      "community": 22,
+      "norm_label": "favicon"
+    },
+    {
+      "label": "Icons",
+      "file_type": "image",
+      "source_file": "public/icons.svg",
+      "source_location": null,
+      "id": "icons_svg",
+      "community": 23,
+      "norm_label": "icons"
+    },
+    {
+      "label": "Hero Image",
+      "file_type": "image",
+      "source_file": "src/assets/hero.png",
+      "source_location": null,
+      "id": "hero_png",
+      "community": 24,
+      "norm_label": "hero image"
+    },
+    {
+      "label": "React Logo",
+      "file_type": "image",
+      "source_file": "src/assets/react.svg",
+      "source_location": null,
+      "id": "react_svg",
+      "community": 25,
+      "norm_label": "react logo"
+    },
+    {
+      "label": "Vite Logo",
+      "file_type": "image",
+      "source_file": "src/assets/vite.svg",
+      "source_location": null,
+      "id": "vite_svg",
+      "community": 26,
+      "norm_label": "vite logo"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\App.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "src_app_jsx",
+      "_tgt": "app_app",
+      "source": "src_app_jsx",
+      "target": "app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\App.jsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "app_app",
+      "_tgt": "usejournal_usejournal",
+      "source": "app_app",
+      "target": "usejournal_usejournal"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\App.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_app_jsx",
+      "_tgt": "app_app",
+      "source": "app_app",
+      "target": "c_users_msaik_desktop_backtesting_code_src_app_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\EntryForm.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "src_components_journal_entryform_jsx",
+      "_tgt": "entryform_entryform",
+      "source": "src_components_journal_entryform_jsx",
+      "target": "entryform_entryform",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\EntryForm.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_components_journal_entryform_jsx",
+      "_tgt": "entryform_entryform",
+      "source": "entryform_entryform",
+      "target": "c_users_msaik_desktop_backtesting_code_src_components_journal_entryform_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\StatsGrid.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "src_components_journal_statsgrid_jsx",
+      "_tgt": "statsgrid_statsgrid",
+      "source": "src_components_journal_statsgrid_jsx",
+      "target": "statsgrid_statsgrid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\StatsGrid.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_components_journal_statsgrid_jsx",
+      "_tgt": "statsgrid_statsgrid",
+      "source": "statsgrid_statsgrid",
+      "target": "c_users_msaik_desktop_backtesting_code_src_components_journal_statsgrid_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\TradeTable.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "src_components_journal_tradetable_jsx",
+      "_tgt": "tradetable_tradetable",
+      "source": "src_components_journal_tradetable_jsx",
+      "target": "tradetable_tradetable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\TradeTable.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_components_journal_tradetable_jsx",
+      "_tgt": "tradetable_tradetable",
+      "source": "tradetable_tradetable",
+      "target": "c_users_msaik_desktop_backtesting_code_src_components_journal_tradetable_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\WinRateChart.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "src_components_journal_winratechart_jsx",
+      "_tgt": "winratechart_winratechart",
+      "source": "src_components_journal_winratechart_jsx",
+      "target": "winratechart_winratechart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\journal\\WinRateChart.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_components_journal_winratechart_jsx",
+      "_tgt": "winratechart_winratechart",
+      "source": "winratechart_winratechart",
+      "target": "c_users_msaik_desktop_backtesting_code_src_components_journal_winratechart_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\layout\\Header.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "src_components_layout_header_jsx",
+      "_tgt": "header_header",
+      "source": "src_components_layout_header_jsx",
+      "target": "header_header",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\layout\\Header.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_components_layout_header_jsx",
+      "_tgt": "header_header",
+      "source": "header_header",
+      "target": "c_users_msaik_desktop_backtesting_code_src_components_layout_header_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\strategy\\StrategyGuide.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "src_components_strategy_strategyguide_jsx",
+      "_tgt": "strategyguide_strategyguide",
+      "source": "src_components_strategy_strategyguide_jsx",
+      "target": "strategyguide_strategyguide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\components\\strategy\\StrategyGuide.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_components_strategy_strategyguide_jsx",
+      "_tgt": "strategyguide_strategyguide",
+      "source": "strategyguide_strategyguide",
+      "target": "c_users_msaik_desktop_backtesting_code_src_components_strategy_strategyguide_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\hooks\\useJournal.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "src_hooks_usejournal_js",
+      "_tgt": "usejournal_usejournal",
+      "source": "src_hooks_usejournal_js",
+      "target": "usejournal_usejournal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\msaik\\Desktop\\Backtesting\\code\\src\\hooks\\useJournal.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_msaik_desktop_backtesting_code_src_hooks_usejournal_js",
+      "_tgt": "usejournal_usejournal",
+      "source": "usejournal_usejournal",
+      "target": "c_users_msaik_desktop_backtesting_code_src_hooks_usejournal_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "code-memory/context.md",
+      "_src": "context_objective",
+      "_tgt": "context_trading_strategy",
+      "source": "context_objective",
+      "target": "context_trading_strategy"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "code-memory/plan.md",
+      "_src": "plan_architecture",
+      "_tgt": "context_tech_stack",
+      "source": "context_tech_stack",
+      "target": "plan_architecture"
+    }
+  ],
+  "hyperedges": []
+}

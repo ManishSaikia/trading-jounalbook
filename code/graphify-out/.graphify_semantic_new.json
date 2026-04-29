@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "readme_react_vite",
+      "label": "React + Vite Template",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null
+    },
+    {
+      "id": "context_objective",
+      "label": "Project Objective",
+      "file_type": "document",
+      "source_file": "code-memory/context.md",
+      "source_location": null
+    },
+    {
+      "id": "context_tech_stack",
+      "label": "Technical Stack",
+      "file_type": "document",
+      "source_file": "code-memory/context.md",
+      "source_location": null
+    },
+    {
+      "id": "context_trading_strategy",
+      "label": "Trading Strategy Insights",
+      "file_type": "document",
+      "source_file": "code-memory/context.md",
+      "source_location": null
+    },
+    {
+      "id": "plan_architecture",
+      "label": "Architecture & Folder Structure",
+      "file_type": "document",
+      "source_file": "code-memory/plan.md",
+      "source_location": null
+    },
+    {
+      "id": "plan_features",
+      "label": "Key Features",
+      "file_type": "document",
+      "source_file": "code-memory/plan.md",
+      "source_location": null
+    },
+    {
+      "id": "index_html",
+      "label": "index.html",
+      "file_type": "document",
+      "source_file": "index.html",
+      "source_location": null
+    },
+    {
+      "id": "favicon_svg",
+      "label": "Favicon",
+      "file_type": "image",
+      "source_file": "public/favicon.svg",
+      "source_location": null
+    },
+    {
+      "id": "icons_svg",
+      "label": "Icons",
+      "file_type": "image",
+      "source_file": "public/icons.svg",
+      "source_location": null
+    },
+    {
+      "id": "hero_png",
+      "label": "Hero Image",
+      "file_type": "image",
+      "source_file": "src/assets/hero.png",
+      "source_location": null
+    },
+    {
+      "id": "react_svg",
+      "label": "React Logo",
+      "file_type": "image",
+      "source_file": "src/assets/react.svg",
+      "source_location": null
+    },
+    {
+      "id": "vite_svg",
+      "label": "Vite Logo",
+      "file_type": "image",
+      "source_file": "src/assets/vite.svg",
+      "source_location": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "context_objective",
+      "target": "context_trading_strategy",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "code-memory/context.md"
+    },
+    {
+      "source": "plan_architecture",
+      "target": "context_tech_stack",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "code-memory/plan.md"
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 100,
+  "output_tokens": 100
+}

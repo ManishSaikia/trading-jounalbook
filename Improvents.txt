@@ -1,0 +1,2 @@
+1. When hovering over notes it should show a clean dialogue box with the notes
+2. Add a field to enter number of trades in LOG A SESSION

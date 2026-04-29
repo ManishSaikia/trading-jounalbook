@@ -1,0 +1,24 @@
+:root {
+  --bg: #0d0d0d;
+  --surface: #141414;
+  --surface2: #1a1a1a;
+  --border: rgba(255,255,255,0.08);
+  --border-strong: rgba(255,255,255,0.15);
+  --text: #e8e6de;
+  --muted: #6b6960;
+  
+  --gold: #c9a84c;
+  --gold-dim: rgba(201,168,76,0.12);
+  --green: #4caf82;
+  --green-dim: rgba(76,175,130,0.12);
+  --amber: #e09a3a;
+  --amber-dim: rgba(224,154,58,0.12);
+  --red: #e05a5a;
+  --red-dim: rgba(224,90,90,0.12);
+  
+  --radius: 8px;
+  --radius-lg: 12px;
+  
+  --mono: 'IBM Plex Mono', monospace;
+  --sans: 'Syne', sans-serif;
+}
